@@ -1,0 +1,1 @@
+In this project, I compared a Multi-layer Neural Network model with the Merged architecture of CNN & Multi-layer NN, on the task of House Price Prediction.

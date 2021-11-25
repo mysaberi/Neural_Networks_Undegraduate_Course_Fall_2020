@@ -1,0 +1,1 @@
+In this project, I implemented a speech emotion recognition system with the help of Long Short Term Memory architecture and audio features like MFCC, Chroma, and Spectral Contrast.
